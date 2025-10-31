@@ -4,8 +4,7 @@
 **Affiliations:** Independent researcher (Paris–Athens)  
 **Contact:** christophe.bellat@proton.me  
 **Preprint:** Zenodo DOI 10.5281/zenodo.17469405  
-**License:** MIT (for scripts and configuration files)
----
+**License:** MIT (for scripts and configuration files)---
 
 ## Overview
 
